@@ -42,7 +42,7 @@ stand, a desk or in StandBy, upright or on its side.
 
 Built-in fonts or any font on your device, preset or custom colors, light or
 dark appearance, an optional time zone label and tenths of a second. Seconds Clock follows your
-text size and 12/24-hour setting, and it comes in 13 languages.
+text size and 12/24-hour setting, and it comes in 14 languages.
 
 ### iPhone Duo and Shortcuts
 
@@ -56,13 +56,10 @@ Works on iPhone Duo in both orientations. Its actions are available in Shortcuts
 
 [More screenshots](https://liveseconds.app#screens)
 
-## New in 6.0.0
+## New in 6.1.0
 
-- iPhone Duo support
-- Shortcuts and Siri actions
-- Milliseconds display fixed for the Dynamic Island clock on iOS 27
-- Fixes for the floating clock and the "Show in Dynamic Island" option
-- Better appearance with iPhone Mirroring
+- A new Lock Screen widget
+- Vietnamese added
 
 [Version history](https://liveseconds.app/releases)
 
