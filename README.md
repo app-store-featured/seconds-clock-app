@@ -56,10 +56,10 @@ Works on iPhone Duo in both orientations. Its actions are available in Shortcuts
 
 [More screenshots](https://liveseconds.app#screens)
 
-## New in 6.1.0
+## New in 6.3.0
 
-- A new Lock Screen widget
-- Vietnamese added
+- Widget clock size is now adjustable
+- Bug fixes and improvements
 
 [Version history](https://liveseconds.app/releases)
 

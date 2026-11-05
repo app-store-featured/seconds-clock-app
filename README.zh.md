@@ -51,10 +51,10 @@ iPhone Duo 横竖屏都能用。实时秒钟的操作可以在「快捷指令」
 
 [更多截图](https://liveseconds.app/zh/#screens)
 
-## 6.1.0 更新内容
+## 6.3.0 更新内容
 
-- 新增锁定屏幕小组件
-- 新增越南语
+- 支持调整小组件时钟大小
+- 错误修复和改进
 
 [版本历史](https://liveseconds.app/zh/releases)
 
